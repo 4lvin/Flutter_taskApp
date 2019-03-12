@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "454145587544",
+    "firebase_url": "https://plantask-599ce.firebaseio.com",
+    "project_id": "plantask-599ce",
+    "storage_bucket": "plantask-599ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454145587544:android:81616b7a115b1f7f",
+        "android_client_info": {
+          "package_name": "com.jongjava.alvin.plantask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454145587544-kugt0igontngilq18vj4oac1crkbh6cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jongjava.alvin.plantask",
+            "certificate_hash": "82874e9e78c10eb2b5c02d4984e03127b095f590"
+          }
+        },
+        {
+          "client_id": "454145587544-a0j41grj5h4shfeicfbmg6raqj8a80cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx9d4YOUCNJPotZPLYQjC_-v9j0nxae6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454145587544-a0j41grj5h4shfeicfbmg6raqj8a80cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
